@@ -6,9 +6,6 @@
 	"license": "ISC",
 	"main": "src/index.js",
 	"type": "module",
-	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
-	},
 	"bin": {
 		"task-cli": "./bin/index.js"
 	},
